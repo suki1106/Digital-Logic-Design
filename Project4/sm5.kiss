@@ -1,0 +1,13 @@
+.start_kiss
+.i 1
+.o 1
+.p 6
+.s 3
+.r A
+0 A A 0
+1 A A 0
+0 D A 0
+1 D G 0
+0 G A 1
+1 G A 0
+.end_kiss
